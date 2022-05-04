@@ -24,3 +24,5 @@ reply
     - Username
     - Body
     - Timestamp
+
+log pubblico di moderazione
