@@ -1,0 +1,26 @@
+
+categorie (gruppi?)
+    - programmazione
+    - miscellanea
+    - tecnologia
+    - matematica
+
+ordinati cronologicamente
+100 post per categoria
+
+profile
+    - Username
+    - Password
+    - E-Mail? (visibile o meno) (visualizzata come immagine)
+    - Website?
+
+post
+    - Username
+    - Title
+    - Body xor Link
+    - Timestamp
+
+reply
+    - Username
+    - Body
+    - Timestamp
